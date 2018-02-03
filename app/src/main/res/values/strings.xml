@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    <string-array name="escolaridad">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="libros">
+        <item>El Viejo y el Mar</item>
+        <item>Pedro Páramo</item>
+        <item>La Biblia</item>
+        <item>Cien Años de Soledad</item>
+        <item>Aura</item>
+        <item>El Hobbit</item>
+        <item>Las Intermitencias de la Muerte</item>
+    </string-array>
+
+    <string name="degree">Escolaridad</string>
+    <string name="sex">Género</string>
+    <string name="fem">Femenino</string>
+    <string name="masc">Masculino</string>
+    <string name="favbook">Libro Favorito</string>
+    <string name="hintbook">Escribe el nombre de un libro</string>
+    <string name="sport">Practica Deporte</string>
+    <string name="namein">Ingresa tu nombre</string>
+    <string name="phonein">Ingresa tu teléfono</string>
+    <string name="clear">LIMPIAR</string>
+</resources>
